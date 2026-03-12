@@ -1,0 +1,1 @@
+{\n  "name": "digikartplus/ytd",\n  "private": false,\n  "workspaces": [\n    "frontend",\n    "backend"\n  ]\n}
